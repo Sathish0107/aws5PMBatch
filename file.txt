@@ -1,1 +1,1 @@
-Hello welcome to aws
+Hello welcome to aws. This is the git demo session
